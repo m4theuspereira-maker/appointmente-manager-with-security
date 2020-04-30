@@ -1,0 +1,2 @@
+following the images you'll see how to test this application in your pc. For a while that's a simple application but 
+during the time i'll add more functionalities, creating a new repository for each great update 
